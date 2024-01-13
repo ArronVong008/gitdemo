@@ -1,1 +1,1 @@
-git branch dev demo
+git branch dev demo master
