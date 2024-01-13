@@ -2,3 +2,5 @@ git branch dev demo a
 learn how to use stage
 dev2
 dev111
+
+tag v1.0
