@@ -8,3 +8,4 @@ a
 way
 d
 nice
+way out
