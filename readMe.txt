@@ -5,4 +5,8 @@ yes
 stupid boss
 c
 a
+way
 d
+nice
+way out
+ad
